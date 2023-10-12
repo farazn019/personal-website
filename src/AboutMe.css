@@ -1,0 +1,12 @@
+.about-me-text-content {
+    display: inline-block;
+    margin-left: 12.5%;
+    color: white;
+    margin-top: 2.5%;
+}
+
+
+.about-me-image {
+    display: inline-grid;
+    margin-left: 12.5%;
+}
