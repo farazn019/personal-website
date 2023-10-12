@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/personal-website/static/css/main.65b74b32.css",
-    "main.js": "/personal-website/static/js/main.03e2b778.js",
+    "main.css": "/personal-website/static/css/main.c88d5013.css",
+    "main.js": "/personal-website/static/js/main.fb030fcd.js",
     "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
     "static/media/rbc-capital-markets-logo.png": "/personal-website/static/media/rbc-capital-markets-logo.49b4131062c3af5be497.png",
-    "static/media/Faraz_Naseem_Resume.pdf": "/personal-website/static/media/Faraz_Naseem_Resume.9b489f7b81ffdbc98a67.pdf",
+    "static/media/Faraz_Naseem_Resume.pdf": "/personal-website/static/media/Faraz_Naseem_Resume.3fee3554256f8aaafc16.pdf",
     "static/media/blackberry-logo.png": "/personal-website/static/media/blackberry-logo.7785d05c8598092ff33a.png",
     "static/media/ibm-logo.png": "/personal-website/static/media/ibm-logo.ff3b8e795718e1f1acb0.png",
     "static/media/opentext-logo.png": "/personal-website/static/media/opentext-logo.849478f2346f4889b169.png",
     "static/media/rbc-logo.png": "/personal-website/static/media/rbc-logo.7c5e8457682c6aa368fb.png",
     "static/media/analyticly-logo.png": "/personal-website/static/media/analyticly-logo.e502c41a8abd782f2f76.png",
     "index.html": "/personal-website/index.html",
-    "main.65b74b32.css.map": "/personal-website/static/css/main.65b74b32.css.map",
-    "main.03e2b778.js.map": "/personal-website/static/js/main.03e2b778.js.map",
+    "main.c88d5013.css.map": "/personal-website/static/css/main.c88d5013.css.map",
+    "main.fb030fcd.js.map": "/personal-website/static/js/main.fb030fcd.js.map",
     "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65b74b32.css",
-    "static/js/main.03e2b778.js"
+    "static/css/main.c88d5013.css",
+    "static/js/main.fb030fcd.js"
   ]
 }
